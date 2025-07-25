@@ -61,7 +61,7 @@ exemple :
 
 ```
 ex00/
-├── main.c                → point d’entrée du programme
+├── main.c                → le main
 ├── parser.c/.h           → lit et parse le dictionnaire
 ├── dict_utils.c/.h       → fonctions de recherche dans le dictionnaire
 ├── number_to_words.c/.h  → convertit un nombre en lettres

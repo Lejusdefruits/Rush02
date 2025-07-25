@@ -78,12 +78,6 @@ ex00/
 make
 ```
 
-`Makefile` doit contenir au minimum les règles :
-- `all` (ou `$(NAME)`)
-- `clean`
-- `fclean`
-- `re`
-
 Le programme est compilé avec : `cc -Wall -Wextra -Werror`
 
 ---

@@ -91,10 +91,10 @@ Le programme est compilé avec : `cc -Wall -Wextra -Werror`
   ./rush-02 -
   42
   forty two
+  ```
 
 ## Contributors:
 >[Derhen David](https://profile.intra.42.fr/users/dedavid) | 
 >[Hoël Keromnes](https://profile.intra.42.fr/users/hkeromne) | 
 >[Julien Brousse](https://profile-v3.intra.42.fr/users/jubrouss)
-  ^D
-  ```
+

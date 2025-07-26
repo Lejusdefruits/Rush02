@@ -1,5 +1,9 @@
 # Rush02 –
 
+<p align="center">
+  <img src="./ressources/banner.gif" alt="Rush02 Banner" />
+</p>
+
 ## Sujet
 
 programmer `rush-02`, capable de convertir un **nombre entier positif** en **toutes lettres**, en s’appuyant sur un dictionnaire texte

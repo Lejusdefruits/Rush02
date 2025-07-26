@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./ressources/banner.gif" alt="Rush02 Banner" />
+</p>
 
 ## Sujet
 
